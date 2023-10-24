@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/bin/Debug/net7.0/Loops
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/bin/Debug/net7.0/Loops.deps.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/bin/Debug/net7.0/Loops.runtimeconfig.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/bin/Debug/net7.0/Loops.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/bin/Debug/net7.0/Loops.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/Loops.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/Loops.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/Loops.AssemblyInfo.cs
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/Loops.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/Loops.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/refint/Loops.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/Loops.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/Loops.genruntimeconfig.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Loops/obj/Debug/net7.0/ref/Loops.dll

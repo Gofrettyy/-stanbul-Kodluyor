@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.deps.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.runtimeconfig.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfo.cs
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/refint/TypesAndVariables.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.genruntimeconfig.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/TypesAndVariables/obj/Debug/net7.0/ref/TypesAndVariables.dll

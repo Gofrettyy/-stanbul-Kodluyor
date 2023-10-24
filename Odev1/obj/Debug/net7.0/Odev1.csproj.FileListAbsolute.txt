@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/bin/Debug/net7.0/Odev1
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/bin/Debug/net7.0/Odev1.deps.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/bin/Debug/net7.0/Odev1.runtimeconfig.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/bin/Debug/net7.0/Odev1.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/bin/Debug/net7.0/Odev1.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/Odev1.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/Odev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/Odev1.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/Odev1.AssemblyInfo.cs
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/Odev1.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/Odev1.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/refint/Odev1.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/Odev1.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/Odev1.genruntimeconfig.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Odev1/obj/Debug/net7.0/ref/Odev1.dll
