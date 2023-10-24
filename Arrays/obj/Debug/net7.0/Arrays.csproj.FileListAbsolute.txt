@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/bin/Debug/net7.0/Arrays
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Arrays/obj/Debug/net7.0/ref/Arrays.dll

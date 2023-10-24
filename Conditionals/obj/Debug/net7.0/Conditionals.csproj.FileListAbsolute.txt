@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/bin/Debug/net7.0/Conditionals
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll

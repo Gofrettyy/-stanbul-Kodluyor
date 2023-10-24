@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/bin/Debug/net7.0/Strings
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/bin/Debug/net7.0/Strings.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/Strings.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/Strings.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Strings/obj/Debug/net7.0/ref/Strings.dll
