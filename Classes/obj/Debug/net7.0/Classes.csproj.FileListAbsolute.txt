@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/bin/Debug/net7.0/Classes
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/bin/Debug/net7.0/Classes.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/Classes.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Classes/obj/Debug/net7.0/ref/Classes.dll
