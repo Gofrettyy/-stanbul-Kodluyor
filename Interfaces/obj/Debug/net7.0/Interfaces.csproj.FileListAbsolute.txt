@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/bin/Debug/net7.0/Interfaces
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/bin/Debug/net7.0/Interfaces.deps.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/bin/Debug/net7.0/Interfaces.runtimeconfig.json
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/bin/Debug/net7.0/Interfaces.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/bin/Debug/net7.0/Interfaces.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/Interfaces.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/refint/Interfaces.dll
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/Interfaces.pdb
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/Interfaces.genruntimeconfig.cache
+/Users/naznehiralicavus/Desktop/Odev/Odev1/Interfaces/obj/Debug/net7.0/ref/Interfaces.dll
