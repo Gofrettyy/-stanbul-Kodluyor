@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RecapDemo1": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
